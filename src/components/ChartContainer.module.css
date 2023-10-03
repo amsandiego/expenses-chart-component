@@ -1,0 +1,14 @@
+.chartContainer {
+  background: var(--color-neutral-very-pale-orange);
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.header {
+  font-size: 1.5rem;
+  color: var(--color-neutral-dark-brown);
+  font-weight: 700;
+  text-align: left;
+  margin: 0px;
+}

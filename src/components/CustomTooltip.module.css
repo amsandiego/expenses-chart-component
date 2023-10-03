@@ -1,0 +1,12 @@
+.customTooltip {
+  background: var(--color-neutral-dark-brown);
+  padding: 0.2px 5px;
+  text-align: center;
+  border-radius: 3px;
+  align-self: center;
+}
+
+.tooltipText {
+  font-size: 12px;
+  color: var(--color-neutral-cream);
+}

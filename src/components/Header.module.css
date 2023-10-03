@@ -1,0 +1,25 @@
+.header {
+  background: var(--color-primary-soft-red);
+  color: var(--color-neutral-very-pale-orange);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  width: 100%;
+  border-radius: 10px;
+  line-height: 0.5rem;
+}
+
+.balanceLabel {
+  font-size: 0.9rem;
+  color: var(--color-neutral-very-pale-orange);
+  font-weight: 400;
+  text-align: left;
+}
+
+.balance {
+  font-size: 1.4rem;
+  color: var(--color-neutral-very-pale-orange);
+  font-weight: 700;
+  text-align: left;
+}
