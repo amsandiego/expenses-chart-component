@@ -46,7 +46,7 @@ function MyBarChart() {
         <BarChart
           width={330}
           height={260}
-          barSize={33}
+          barSize={31}
           data={data}
           margin={{
             right: 20,
