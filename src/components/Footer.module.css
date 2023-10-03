@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.footerSmall {
+  font-size: 0.8rem;
+  color: var(--color-neutral-medium-brown);
+  font-weight: 400;
+  text-align: left;
+  margin: 0px;
+}
+
+.footerBig {
+  font-size: 1.8rem;
+  color: var(--color-neutral-dark-brown);
+  font-weight: 700;
+  margin: 0px;
+}
+
+.value {
+  font-size: 0.8rem;
+  color: var(--color-neutral-dark-brown);
+  font-weight: 700;
+  text-align: right;
+  margin: 0px;
+}
+
+.spanValue {
+  display: block;
+  font-size: 13px;
+  color: var(--color-neutral-medium-brown);
+  font-weight: 400;
+}
